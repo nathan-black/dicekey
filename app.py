@@ -25,3 +25,6 @@ if st.button("Roll the dice"):
     st.write(f"**{time_signature} time signature** at") 
     st.write(f"**{tempo} bpm**.")
     st.subheader("Good Luck!")
+    st.write("...or roll the dice again")
+
+
